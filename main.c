@@ -7,7 +7,7 @@ int main(void)
   scanf("%d" , "&a");
   scanf("%d , "&b");
   
-  int c= a + b;
+  int c= a * b;
   
   
   printf("%d" ,c);
